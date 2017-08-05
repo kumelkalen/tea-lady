@@ -1,1 +1,21 @@
 /* Escribe acá tus estilos*/
+*{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	background: #F9C4AC;
+	height: 100px;
+	text-align: center;
+}
+#formulario{
+	background: #272637;
+	padding: 25px 0;
+}
+#formulario form,p{
+	background: #474168;
+	width: 80%;
+	border-radius: 5px;
+	margin: 20px auto;
+	padding: 10px;
+}
